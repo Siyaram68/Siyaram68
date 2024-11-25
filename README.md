@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Siyaram Sharma!
 
-<!--
-**Siyaram68/Siyaram68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **computer science student** passionate about building innovative software solutions.  
+Currently, I’m honing my skills in **Network Security, FrontEnd Development**, and **Deep Learning**.
 
-Here are some ideas to get you started:
+🌱 **Currently learning:** Advanced Java, SQL, and Cloud Fundamentals.  
+💼 **Aspiring to:** Become a skilled software engineer and a researcher  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills and Tools
+
+- **Programming Languages:** Java, Python, C/C++
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Flask
+- **Databases:** MySQL, MongoDB
+- **Other Tools:** Git, Nmap, Linux, Metasploit
+
+
+## 📫 Let's Connect!
+
+- **Email:** sharmasiyaram25@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/siyaram-sharma-3a12b2213/
+- **GitHub:** https://www.github.com/Siyaram68
